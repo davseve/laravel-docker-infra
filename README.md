@@ -89,8 +89,4 @@ docker-compose stop
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
-
-You can directly copy and paste this entire block into your README.md file or any other Markdown file.
 ```
