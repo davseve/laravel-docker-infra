@@ -12,11 +12,11 @@ Before getting started, ensure that you have Docker and Docker Compose installed
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/davseve/laravel-docker-infra.git
+   git clone https://github.com/davseve/laravel-docker-lemp.git
 2. Navigate to the project directory:
 
    ```bash
-   cd laravel-docker-infra
+   cd laravel-docker-lemp
    ```
 
 3. Copy the `.env.example` file to `.env`:
